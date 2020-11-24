@@ -1,0 +1,23 @@
+project/.DS_Store
+project/node_modules
+port/node_modules
+project/dist
+
+# local env files
+project/.env.local
+project/.env.*.local
+
+# Log files
+project/npm-debug.log*
+project/yarn-debug.log*
+project/yarn-error.log*
+project/pnpm-debug.log*
+
+# Editor directories and files
+project/.idea
+project/.vscode
+project/*.suo
+project/*.ntvs*
+project/*.njsproj
+project/*.sln
+project/*.sw?
