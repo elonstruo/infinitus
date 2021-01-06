@@ -1,3 +1,11 @@
+<!--
+ * @Author: cct
+ * @Date: 2020-11-24 10:57:57
+ * @LastEditTime: 2021-01-05 10:14:46
+ * @LastEditors: Please set LastEditors
+ * @Description: buyfun单页面vue-cli项目
+ * @FilePath: /infinitus/project/README.md
+-->
 # project
 
 ## Project setup

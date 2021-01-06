@@ -28,21 +28,7 @@ export default {
         }
     },
     created() {
-      axios({
-        url: 'https://www.easy-mock.com/mock/5fb23670b6c9532e3bc4c649/buyfun/banner',
-        method: 'post',
-      })
-      .then(res=>{
-        console.log('res')
-        console.log(res)
-        if(res.status==200) {
-          this.banner = res.data.data.banner
-        }
-      })
-      .catch(err=>{
-        console.log('err')
-        console.log(err)
-      })
+
     }
 }
 </script>
